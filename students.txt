@@ -6,7 +6,7 @@ Benaim Lior
 Capone LÃ©o
 Cardona Monget Milo
 Carriou Manech
-Debard Hugo
+Debard Hugo - https://github.com/gglm-web/ml-poc-project
 Carriou Manech
 Debard Hugo
 Delattre Alexandre
